@@ -4,11 +4,6 @@ Portfolio Digital Architect at the Government of Alberta, in Edmonton. I set arc
 across five ministries and build the tooling that lets government ship AI-assisted work with a named
 person accountable for every release.
 
-I recently built the
-[CareFirst Practitioner Registry](https://care-first-auto-insurance.alberta.ca/find-a-practitioner),
-a public service on alberta.ca, from scratch to production in about 55 hours of development time,
-specification first.
-
 ## Open source
 
 | Project | What it does |
